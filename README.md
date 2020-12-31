@@ -20,4 +20,4 @@ Dins de la carpeta titanic trobem els tres datasets que podem trobar també a ka
 - train_clean_out.csv
 - solution_prediction_vs_real_out.csv
 
-Dins de la carpeta code podem trobar el rmd amb el codi r que hem utilitzar per fer aquesta pràctica amb ajuda de RStudio i RMarkdown. També l'html i el pdf.
+Dins de la carpeta code podem trobar el rmd amb el codi r i la solució proposada per aquesta pràctica, desenvolupada amb ajuda de RStudio i RMarkdown. També l'html i el pdf.
